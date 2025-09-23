@@ -1,7 +1,6 @@
 ### Welcome to my profile! 👋
 
 My name is Ulfany Furcal and I'm a Toronto-based Software Developer / Digital Accessibility QA.
-I’m passionate about building inclusive experiences that work for everyone.  
 
 - 🔭 I'm currently learning: Python and full-stack development (with accessibility built-in)  
 - 🌱 Background: trained as a Medical Doctor, with additional studies in AI for Healthcare & Predictive Analytics, Software Engineering Technology, and Digital Accessibility.
