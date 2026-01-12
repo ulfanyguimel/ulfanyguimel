@@ -2,13 +2,13 @@
 
 Hi, I'm Ulfany and I'm a Toronto-based Software Developer / Digital Accessibility QA.
 
-- 🔭 What I'm working on:
+🔭 What I'm working on:
 - QA Engineering Lab: manual testing foundations, API automation, UI automation (Playwright), and CI/CD
 - AI-assisted testing workflows for test generation, coverage analysis, and failure triage
 - Quality practices for real-world, user-facing systems
 - Python and full-stack development (with accessibility built-in)
   
-- 🧰 Tech & Tools
+🧰 Tech & Tools
 - Test Automation: Playwright, pytest (learning), API testing
 - Languages: JavaScript / TypeScript, Python (foundations)
 - CI/CD: GitHub Actions
